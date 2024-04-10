@@ -1,0 +1,13 @@
+header{
+
+    background-color: rgb(27, 27, 214);
+    background: radial-gradient(; white ; blue);
+    color: white;
+    display: flex;
+    font-size: 32px;
+    justify-content: center
+    
+}
+img{
+    width: 20%;
+}
